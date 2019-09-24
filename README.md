@@ -1,0 +1,2 @@
+# myStMU
+St. Mary University
